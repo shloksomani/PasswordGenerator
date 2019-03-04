@@ -1,2 +1,2 @@
 # PasswordGenerator-
-Strong random password generator and can save the the output to a file of choice 
+Strong random password generator which can save the the output to a file of choice locally  
